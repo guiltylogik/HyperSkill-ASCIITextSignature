@@ -1,9 +1,10 @@
 package signature
 
 fun main() {
-    val name = "Hyper Skill"
+    val (firstName, lastName) = readLine()!!.split(" ")
+    val borders = "*".repeat(firstName.length + lastName.length + 5)
 
-    println(" " + "_".repeat(name.length + 2))
-    println("| $name |")
-    println(" " + "¯".repeat(name.length + 2))
+    println(borders)
+    println("* $firstName $lastName *")
+    println(borders)
 }
