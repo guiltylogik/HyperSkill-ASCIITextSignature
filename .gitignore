@@ -1,0 +1,38 @@
+/build.gradle
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/checksums/checksums.lock
+/course-info.yaml
+/course-remote-info.yaml
+/.gradle/6.1.1/executionHistory/executionHistory.bin
+/.gradle/6.1.1/executionHistory/executionHistory.lock
+/.gradle/6.1.1/fileHashes/fileHashes.bin
+/.gradle/5.3.1/fileHashes/fileHashes.lock
+/.gradle/6.1.1/fileHashes/fileHashes.lock
+/.gradle/5.3.1/gc.properties
+/.gradle/6.1.1/gc.properties
+/.gradle/vcs-1/gc.properties
+/ASCII Text Signature/task/test/GeneratorTest.java
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/.gradle/5.3.1/fileChanges/last-build.bin
+/.gradle/6.1.1/fileChanges/last-build.bin
+/ASCII Text Signature/lesson-info.yaml
+/settings.gradle
+/ASCII Text Signature/ASCII New Roman/task.html
+/ASCII Text Signature/Make it notable/task.html
+/ASCII Text Signature/Primitive Art/task.html
+/ASCII Text Signature/Star quality/task.html
+/ASCII Text Signature/task/test/Task1Test.kt
+/ASCII Text Signature/ASCII New Roman/task-info.yaml
+/ASCII Text Signature/Make it notable/task-info.yaml
+/ASCII Text Signature/Primitive Art/task-info.yaml
+/ASCII Text Signature/Star quality/task-info.yaml
+/ASCII Text Signature/ASCII New Roman/task-remote-info.yaml
+/ASCII Text Signature/Make it notable/task-remote-info.yaml
+/ASCII Text Signature/Primitive Art/task-remote-info.yaml
+/ASCII Text Signature/Star quality/task-remote-info.yaml
+/ASCII Text Signature/task/test/TestCaseHelpers.kt
+/.idea/vcs.xml
